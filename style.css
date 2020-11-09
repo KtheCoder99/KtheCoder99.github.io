@@ -89,8 +89,8 @@ nav a:hover {
     top: 0;
     left: 0;
     background: #262626;
-    border-left: 2px solid #fff;
-    border-right: 2px solid #fff;
+    /* border-left: 2px solid #fff;
+    border-right: 2px solid #fff; */
 }
 
 .social {
